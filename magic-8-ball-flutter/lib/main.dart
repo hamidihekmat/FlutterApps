@@ -17,11 +17,11 @@ class _BallPage extends State<BallPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.red,
       appBar: AppBar(
-        backgroundColor: Colors.blueAccent,
+        backgroundColor: Colors.redAccent,
         title: Center(
-          child: Text('Ask Me Anything'),
+          child: Text('Ask Me Anything!'),
         ),
       ),
       body: Center(

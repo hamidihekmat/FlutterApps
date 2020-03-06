@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/gon.jpg'),
               ),
               Text(
-                'Gon Freecss',
+                'Gon x Freecss',
                 style: TextStyle(
                   fontSize: 40,
                   color: Colors.white,
